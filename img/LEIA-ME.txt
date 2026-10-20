@@ -1,0 +1,6 @@
+FOTOS DO SITE - Cortinaria & Art
+
+logo-cortinaria.png / -claro.png  Logo do perfil do WhatsApp da empresa, sem fundo (versão escura e clara)
+projeto-01.jpg, projeto-02.jpg    Miniaturas dos vídeos do Instagram @cortinaria_e_art (resolução baixa)
+hero.jpg, sobre.jpg               Unsplash (licença livre), ilustrativas
+Troque pelas fotos reais da empresa quando tiver. Não use imagens do Google (direitos autorais).
